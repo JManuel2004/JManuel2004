@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-- I'm a second-year **Systems Engineering** student 🎓
+- I'm a third-year **Systems Engineering** student 🎓
 - Passionate about **technology** and always learning 🚀
 - A **rock** enthusiast 🎸 who enjoys good music 🎶
 - I love working on **personal projects** to grow in various areas 💡
