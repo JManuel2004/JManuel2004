@@ -6,7 +6,11 @@
 
 <!-- Typing animation -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A855F7\&size=25\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub!;Systems+Engineering+Student;Tech+Enthusiast+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A855F7\&size=25\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Tech+Enthusiast+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+<!-- Waving hand animation -->
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
 
 ## 👨‍💻 About Me
 
@@ -35,12 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JManuel2004\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JManuel2004\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🔢 Profile Views
 
@@ -54,4 +53,4 @@ I’m just getting started, but fully committed to learning, building, and creat
 
 **Building the future, one step at a time 🚀**
 
----
+
